@@ -1,0 +1,23 @@
+header{
+    background-color: darkslategray;
+    color: lightpink;
+    text-align: center;
+
+}
+
+main{
+    background-color: lightgrey;
+    padding: 1em;
+
+
+}
+
+html {
+    background-image: url(record.png);
+    background-repeat: repeat;
+
+}
+
+body {
+    margin: 0
+}
